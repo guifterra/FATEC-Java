@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class NumeroPerfeito{
+	
+	public static void main(String[] args){
+		
+		Scanner leia = new Scanner(System.in);
+		
+		System.out.print("\n Entre com um numero: ");
+		int numero = leia.nextint();
+		
+		
+		
+	}
+}
